@@ -1,7 +1,5 @@
 ### Im Yakir~
 
-小鹅通工作中
-
 又快要过年了!
 
 **Languages and Tools:**  
