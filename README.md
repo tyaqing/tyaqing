@@ -4,7 +4,7 @@
 |name|href|
 |-|-|
 |Npmvs|https://npmvs.com/|
-|PixSnap|https://pixsnap.app/|
+|ExportX Figma Plugin|https://www.figma.com/community/plugin/1301958586584763919|
 
 **Languages and Tools:**  
 
